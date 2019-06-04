@@ -1,0 +1,42 @@
+.container {font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+
+
+
+}
+header {
+    background-color: teal;
+    padding: 1%;
+    float: left;
+    margin-left: 100px;
+    
+    
+}
+
+h1{
+    color: white
+}
+
+.pattern {
+    width: 960px;
+    height: 960px;
+    padding: 20px;
+    margin: 2px auto;
+    background-image: url(email-pattern.png);
+
+}
+
+#Biopic {
+width: 200px;
+height: 450px;
+
+}
+
+
+}
+footer {
+    background-color: #666666;
+    text-align: center
+
+}
