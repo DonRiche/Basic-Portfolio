@@ -34,7 +34,7 @@ a {
 }
 
 
-main {
+.main {
     clear: both;
     color: teal;
     height: 1000px;
@@ -45,8 +45,6 @@ main {
 img {
     width: 200px;
     height: 450px;
-    
-    
 }
 .container {
     background-color: white;
@@ -66,6 +64,7 @@ footer {
     color:white;
     text-align: center;
     position: fixed left;
+    
 
 
 }
