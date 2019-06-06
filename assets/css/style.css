@@ -4,20 +4,26 @@
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid black;
     box-sizing: border-box;
 }
 
 nav {
     background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 h1 {
     background-color: teal;
     box-sizing: border-box;
-    float: left;
     color: white;
-    border:1px solid yellow;}
+    margin-left: 11%;
+    text-align: center;
+    margin-bottom: 0%;
+    width: 25%;
+    padding-top: 1%;
+}
 
 a {
     background-color: white;
@@ -29,7 +35,6 @@ a {
     border-left: 2px solid gray;
     text-align: center;
     padding-right: 30px; 
-    border:1px solid green;
 
 }
 
@@ -37,30 +42,35 @@ a {
 .main {
     clear: both;
     color: teal;
-    height: 1000px;
-    border:1px solid pink;
     background: url(../images/email-pattern.png);
+margin-left: auto;
+margin-right: auto;
 }
 
 img {
     width: 200px;
     height: 450px;
+    float: left;
 }
+
+p {
+    color: gray;
+}
+
 .container {
     background-color: white;
     width: 960px;
-    height: 960px;
-    margin-left: 11%;
-    
-    
-
-    
+    height: 500px;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
     clear: both;
-    border:1px solid rgb(77, 209, 16);
-    background-color: grey;
+    border-top: 10px solid teal;
+    padding-top: 20px;
+    background-color:gray;
     color:white;
     text-align: center;
     position: fixed left;
